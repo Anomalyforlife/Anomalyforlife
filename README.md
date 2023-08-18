@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm `Simone Italiano` from `Sicily`<br><br>- 🔭 I’m interested in `Parkour`,`Videogames` & `IT`<br>- 📚 I'm currently learning [Go](https://go.dev/)</p>
+<p align="left">I'm <b>Simone Italiano</b> from <b>Sicily</b><br><br>- 🔭 I’m interested in <b>Parkour</b>,<b>Videogames</b> & <b>IT</b><br>- 📚 I'm currently learning <b><a href="https://go.dev/">Go</a></b></p>
 
 ###
 
