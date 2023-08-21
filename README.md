@@ -76,7 +76,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/anomalyforlife/anomalyforlife/output/snake.svg" alt="Snake animation" />
-<div aligh="center">
+<div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=w31lnds00g5bkas5dpk93zd28&unique=1&count=5" alt="Spotify Recently Played"/>
 </div>
 
